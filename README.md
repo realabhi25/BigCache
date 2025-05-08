@@ -1,10 +1,10 @@
-BigCache Example
+###BigCache Example
 
-Overview
+##Overview
 
 This project demonstrates a production-ready implementation of a caching system using the BigCache library in Go. It efficiently stores user data in memory, enabling fast reads and writes. The code is designed with robust error handling, structured logging, and graceful shutdown practices.
 
-Key Features
+##Key Features
 
 High-Performance Caching: Uses BigCache to handle large volumes of data with low latency.
 
@@ -16,7 +16,7 @@ Configuration Management: Settings are centralized and easy to adjust.
 
 Graceful Shutdown: Ensures clean closure of resources during application termination.
 
-Getting Started
+##Getting Started
 
 Prerequisites
 
