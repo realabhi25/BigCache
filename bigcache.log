@@ -1,0 +1,6 @@
+LOG: 2025/05/08 05:00:14 BigCache initialized
+LOG: 2025/05/08 05:00:14 User updated in cache: 222
+LOG: 2025/05/08 05:00:14 User retrieved from cache: 222
+LOG: 2025/05/08 05:00:14 User updated in cache: 333
+LOG: 2025/05/08 05:00:14 User retrieved from cache: 333
+LOG: 2025/05/08 05:00:14 User deleted from cache: 333
