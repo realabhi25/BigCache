@@ -79,8 +79,4 @@ This project is licensed under the MIT License.
 
 Contributions
 
-Feel free to fork and submit pull requests for improvements or bug fixes.
-
-Contact
-
-For questions, please open an issue on GitHub or contact me at [your-email@example.com].
+Feel free to fork and submit pull requests for improvements or bug fixes..
